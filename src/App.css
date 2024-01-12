@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.taxi,.food{
+  margin-left: 20px;
+}
+
+.apple,.sushi,.honey,.fuji{
+  margin-left: 40px;
+}
+
